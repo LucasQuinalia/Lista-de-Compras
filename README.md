@@ -4,7 +4,7 @@
 
 Este projeto faz parte do meu aprendizado de JavaScript, no curso da Alura: JavaScript: construindo páginas dinâmicas 
 
-NNeste projeto, desenvolvi uma lista de compras dinâmica, para iniciar meus estudos em JavaScript.
+Neste projeto, desenvolvi uma lista de compras dinâmica, para iniciar meus estudos em JavaScript.
 
 Link dos designs da aplicação: https://www.figma.com/design/QtW96TPE97jTKiTbl2ZNcD/JavaScript--construindo-p%C3%A1ginas-din%C3%A2micas-%7C-Checklist?node-id=1035-1070&t=T8W9oPrURmUNQNBM-0
 
